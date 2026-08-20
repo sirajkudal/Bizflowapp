@@ -1,0 +1,6 @@
+{
+  "name": "BizFlow",
+  "description": "Simple business management SaaS app for small businesses. Manage customers, products, inventory, sales, invoices, expenses, payments, reports, staff, and subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
